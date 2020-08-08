@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { Tree } from 'phylo-react'
-import './App.css'
 
 function App() {
   const [tree, setTree] = useState()
