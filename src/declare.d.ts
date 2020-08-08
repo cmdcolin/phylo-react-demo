@@ -1,1 +1,1 @@
-declare module "phylo-react";
+declare module 'phylo-react'
